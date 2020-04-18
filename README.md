@@ -1,6 +1,6 @@
-Challenge is a tool for running write-in contests.
+# Challenge: A tool for running write-in contests.
 
-# Basic concepts
+## Basic concepts
 
 - A **contest** is a long-running entity, for example a "Weekly Limerick Writing
 Competiton". Contests may be created by an administrator.
@@ -27,6 +27,8 @@ create a more structured form that contestants have to fill in.
 - **Voting** allows users to assign points to an anonymised list of contest
 entries. Voting is optional; the final winners of the round are always chosen
 by the hosts.
+
+## Workflow
 
 A contest is run in several stages:
 
